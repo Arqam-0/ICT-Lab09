@@ -1,12 +1,13 @@
 .first-div{
     width : 500px;
     height : 500px;
-    background-color: green;
+    background-color: rgb(87, 192, 87);
     border-width: 3px;
     border-color: purple;
     border-radius: 20%;
     margin: 10px;
     padding: 5px;
+    border-style: solid;
 
     display: flex;
     justify-items: centre;
