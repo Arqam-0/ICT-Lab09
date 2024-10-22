@@ -1,8 +1,8 @@
-.first-div {
+.first-div{
     width : 500px;
     height : 500px;
     background-color: green;
-    border-width: 100px;
+    border-width: 3px;
     border-color: purple;
     border-radius: 20%;
     margin: 10px;
@@ -12,7 +12,14 @@
     justify-items: centre;
     align-items: centre;
     text-align: centre;
-    padding-left:100px;
+    padding-left:20px;
 
 
+}
+.normal-para{
+    color: white;
+
+}
+#fav-para{
+    color: blue;
 }
